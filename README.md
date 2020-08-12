@@ -12,6 +12,9 @@ This allows the user more control of looking at the screen without the need of l
 
 After the time has expired, the percent of characters that were correctly typed will be displayed in a pop up. 
 
+## Attachments
+Attached is an TutorOutput.png file that shows what the program is suppose to output on runtime.
+
 ## Future additions
 Instead of using a word bank in a .CSV file, the program will request words from either a 3rd party API or a created database.
 Restructure the codebase. The files that were constructed was at the beginning of my time at FPU. At that time I had limited experience with OOP coding.
